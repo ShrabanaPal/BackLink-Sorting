@@ -1,5 +1,24 @@
+<<<<<<< HEAD
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
 # BackLink-Sorting
 Backlink Sorting is a tool that organizes and ranks backlinks using SEO metrics like authority, relevance, and spam score. It helps identify high-quality links and improve backlink management efficiently.
+<<<<<<< HEAD
 
 # BackLink-Sorting
 
@@ -69,3 +88,6 @@ git clone https://github.com/ShrabanaPal/BackLink-Sorting.git
 cd BackLink-Sorting
 npm install
 npm run dev
+=======
+>>>>>>> a88fbc2be344dfbdd9c8f5f91d26eb48ead7d4c6
+>>>>>>> aa0c49a43c3c836565e0203b36d56c46a87d030b
